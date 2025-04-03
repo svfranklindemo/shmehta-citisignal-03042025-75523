@@ -1,0 +1,9 @@
+.hlx/*
+coverage/*
+logs/*
+node_modules/*
+.idea/*
+.idea
+
+helix-importer-ui
+response.json
